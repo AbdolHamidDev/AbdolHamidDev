@@ -82,3 +82,14 @@
   <a href="https://linkedin.com/in/hamidabdol">💼 LinkedIn</a> &nbsp;·&nbsp;
   <sub>Ho Chi Minh City · UTC+7</sub>
 </p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AbdolHamidDev/AbdolHamidDev/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AbdolHamidDev/AbdolHamidDev/output/github-contribution-grid-snake.svg"
+  />
+  <img alt="contribution snake" src="..." />
+</picture>
