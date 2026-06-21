@@ -6,8 +6,7 @@
 
 ### About
 
-I build web products end-to-end — from a well-typed API to a polished interface.
-Comfortable across the stack, deliberate about architecture, and opinionated about clean code.
+Previously built social platforms and telecom systems. Now focused on supply chain, logistics, and SaaS products for Southeast Asian markets.
 
 ---
 
@@ -33,6 +32,22 @@ Vite · Webpack · Docker · Jest · Vitest · Testing Library
 
 **Design**
 Figma · Framer · Sketch
+
+---
+
+### Projects
+
+**[HalalChain](https://github.com/AbdolHamidDev/HalalChain)**
+Halal supply chain compliance platform for SEA trade networks. End-to-end traceability, QR verification, automated certification monitoring, and real-time operational alerts across inventory, POs, and shipments.
+`TypeScript` `Node.js` `Web3.js`
+
+**[HooksDream](https://github.com/AbdolHamidDev/HooksDream)**
+Social media platform with real-time chat, stories, and AI-powered automation.
+`React` `Node.js` `Python` `Socket.io`
+
+**[Mobifone](https://github.com/AbdolHamidDev/Mobifone)**
+Open-source telecom e-commerce platform covering SIM purchasing, MNP porting, VoIP, and international services, with full admin panel and RBAC.
+`Laravel 11` `Pusher` `MySQL` `Excel import/export`
 
 ---
 
